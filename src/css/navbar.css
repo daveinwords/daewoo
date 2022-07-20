@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+
+@font-face {
+    font-family: 'Biko';
+    src: url('../fonts/BikoRegular.otf');
+}
+
+.nav-main {
+    display: flex;
+    font-family: 'Biko';
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.nav-link {
+    font-family: 'Biko';
+    color: black;
+    text-decoration: none;
+}
