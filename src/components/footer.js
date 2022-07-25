@@ -28,24 +28,24 @@ export default function App() {
       title: "Legal",
       resources: [
         {
-          name: "Privacy",
+          name: "Privacidad",
           link: "/privacy"
         },
         {
-          name: "Terms",
+          name: "Términos y condiciones",
           link: "/terms"
         }
       ]
     },
     {
-      title: "Visit",
+      title: "Visita",
       resources: [
         {
-          name: "Locations",
-          link: "/locations"
+          name: "Tutti",
+          link: "https://tutti.com.mx/"
         },
         {
-          name: "Culture",
+          name: "Cultura",
           link: "/culture"
         }
       ]
